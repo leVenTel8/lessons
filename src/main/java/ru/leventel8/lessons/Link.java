@@ -1,0 +1,15 @@
+package ru.leventel8.lessons;
+
+class Link {
+
+    public long dData;
+    public Link next;
+
+    public  Link(long dd){
+
+        dData = dd;
+
+    }
+
+
+}
